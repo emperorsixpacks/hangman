@@ -217,11 +217,11 @@ def about():
 
     contact_message.add_row(
         "Github",
-        "[u blue link=https://github.com/textualize]https://github.com/textualize",
+        "[u blue link=https://github.com/emperorsixpacks/hangman]https://github.com/emperorsixpacks/hangman",
     )
     contact_message.add_row(
-        "Github",
-        "[u blue link=https://github.com/textualize]https://github.com/textualize",
+        "Twitter",
+        "[u blue link=https://twitter.com/emperorsixpacks]https://twitter.com/emperorsixpacks",
     )
     intro_message = Text.from_markup(
         """\
