@@ -1,0 +1,158 @@
+{
+    "easy": [
+        {
+            "word": "thoughthole",
+            "meaning": "A small place for the storage of computerized thoughts and musings.",
+            "points": 10
+        },
+        {
+            "word": "byte",
+            "meaning": "A group of eight bits, often likened to a crumb of digital sustenance.",
+            "points": 20
+        },
+        {
+            "word": "scroll",
+            "meaning": "To peruse the written word on a digital parchment, often with a wheel or gesture.",
+            "points": 30
+        },
+        {
+            "word": "download",
+            "meaning": "To fetch information from the ethereal digital realm and bring it hither to thy device.",
+            "points": 40
+        },
+        {
+            "word": "firewall",
+            "meaning": "A digital bulwark, protecting thy device from the fiery arrows of malicious code.",
+            "points": 50
+        },
+        {
+            "word": "spam",
+            "meaning": "Unwanted digital missives that plague the inbox, like a never-ending swarm of locusts.",
+            "points": 10
+        },
+        {
+            "word": "virus",
+            "meaning": "A malevolent entity, spreading its corruption through the ones and zeros of thy computer.",
+            "points": 20
+        },
+        {
+            "word": "browser",
+            "meaning": "A tool for embarking on digital journeys, exploring the vast oceans of information.",
+            "points": 30
+        },
+        {
+            "word": "password",
+            "meaning": "A secret phrase, guarding the entrance to one's digital fortress.",
+            "points": 40
+        },
+        {
+            "word": "server",
+            "meaning": "A digital steward, providing sustenance and services to many a digital traveler.",
+            "points": 50
+        }
+    ],
+    "medium": [
+        {
+            "word": "algorithm",
+            "meaning": "A cunning and intricate set of digital instructions for solving problems or making decisions.",
+            "points": 60
+        },
+        {
+            "word": "encryption",
+            "meaning": "The art of concealing digital messages from prying eyes through arcane codes and ciphers.",
+            "points": 70
+        },
+        {
+            "word": "interface",
+            "meaning": "The bridge betwixt humans and machines, allowing communication and control.",
+            "points": 80
+        },
+        {
+            "word": "cybersecurity",
+            "meaning": "The noble quest to protect digital realms from the nefarious forces of the online underworld.",
+            "points": 90
+        },
+        {
+            "word": "cloud computing",
+            "meaning": "The mystical practice of summoning computing power from afar, as if from the heavens.",
+            "points": 100
+        },
+        {
+            "word": "debugging",
+            "meaning": "The art of chasing and vanquishing digital gremlins and glitches that haunt thy code.",
+            "points": 60
+        },
+        {
+            "word": "network",
+            "meaning": "A complex web of digital connections, binding devices and souls across the vast expanse of the internet.",
+            "points": 70
+        },
+        {
+            "word": "virtual reality",
+            "meaning": "A realm of illusions, wherein the mind is transported to alternate dimensions through digital means.",
+            "points": 80
+        },
+        {
+            "word": "database",
+            "meaning": "A digital repository of knowledge, where information is stored and retrieved with great diligence.",
+            "points": 90
+        },
+        {
+            "word": "automation",
+            "meaning": "The act of entrusting tasks to digital minions, freeing humans from toil and drudgery.",
+            "points": 100
+        }
+    ],
+    "hard": [
+        {
+            "word": "quantum computing",
+            "meaning": "A mystical realm of computing where the laws of quantum mechanics reign supreme, promising computational marvels.",
+            "points": 110
+        },
+        {
+            "word": "blockchain",
+            "meaning": "A digital ledger of indelible transactions, guarded by a chain of cryptographic blocks, impervious to tampering.",
+            "points": 120
+        },
+        {
+            "word": "artificial intelligence",
+            "meaning": "The creation of sentient-like intellect within the confines of silicon and code, akin to Prometheus's fire.",
+            "points": 130
+        },
+        {
+            "word": "neural network",
+            "meaning": "A digital mimicry of the human brain's intricate web of interconnected neurons, for deep learning and wisdom.",
+            "points": 140
+        },
+        {
+            "word": "quantum encryption",
+            "meaning": "The mystical safeguarding of digital secrets through the arcane properties of quantum particles.",
+            "points": 150
+        },
+        {
+            "word": "big data analytics",
+            "meaning": "The noble quest to derive knowledge and insight from vast troves of digital information, like sifting through the sands of time.",
+            "points": 110
+        },
+        {
+            "word": "augmented reality",
+            "meaning": "The merging of the digital and physical realms, where reality is embellished with digital embellishments and wonders.",
+            "points": 120
+        },
+        {
+            "word": "machine learning",
+            "meaning": "The art of bestowing machines with the ability to learn and adapt from experience, as if they possess a soul.",
+            "points": 130
+        },
+        {
+            "word": "deepfake",
+            "meaning": "The dark art of creating digital deceptions so cunning that even the keenest eye may be deceived.",
+            "points": 140
+        },
+        {
+            "word": "biometric authentication",
+            "meaning": "The regal practice of identifying and granting access to individuals through the unique facets of their being, like fingerprints and irises.",
+            "points": 150
+        }
+    ]
+}
