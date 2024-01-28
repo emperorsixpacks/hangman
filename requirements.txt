@@ -4,4 +4,3 @@ pick==2.2.0
 picker==0.2
 Pygments==2.16.1
 rich==13.5.2
-windows-curses==2.3.1
